@@ -1,8 +1,7 @@
-# Modelo
-Repo modelo
-# Titulo
 
-## DESCRIPCION DEL PROYECTO: 
+# BadBank
+
+## DESCRIPCION DEL PROYECTO: BadBank es una aplicación creada como parte del aprendizaje en el desarrollo de aplicaciones de tres capas.  
 
 ## COMO SE EJECUTA:
 .
